@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "axios": "^0.18.0",
-    "crypto-js": "^3.1.9-1"
+    "@alicloud/pop-core": "^1.7.1",
+    "dotenv": "^6.1.0",
+    "sleep": "^5.2.3"
   }
 }
