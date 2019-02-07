@@ -47,4 +47,3 @@ async function authenticate () {
 }
 
 authenticate()
-
